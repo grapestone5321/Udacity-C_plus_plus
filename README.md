@@ -1,6 +1,13 @@
 # Udacity-C_plus_plus
 Udacity-C++
 
+-------
+
+## Paper
+
+## The C++ Programming Language Fourth Edition:
+http://index-of.co.uk/Programming/The%20C++%20Programming.Language.4th.Edition.Jun.2013%5BA4%5D.pdf
+
 
 
 -------
