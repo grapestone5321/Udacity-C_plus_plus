@@ -8,6 +8,8 @@ Udacity-C++
 ## The C++ Programming Language Fourth Edition:
 http://index-of.co.uk/Programming/The%20C++%20Programming.Language.4th.Edition.Jun.2013%5BA4%5D.pdf
 
+## Programming Principles and Practice Using C++
+http://www.nylxs.com/docs/Programming__Principles_and_Practice_Using%20C++%20(Cpp%20Cplusplus).pdf
 
 
 -------
