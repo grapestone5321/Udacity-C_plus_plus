@@ -11,6 +11,8 @@ http://index-of.co.uk/Programming/The%20C++%20Programming.Language.4th.Edition.J
 ## Programming Principles and Practice Using C++
 http://www.nylxs.com/docs/Programming__Principles_and_Practice_Using%20C++%20(Cpp%20Cplusplus).pdf
 
+## Programming Principles and Practice Using C++: Second Edition
+https://ptgmedia.pearsoncmg.com/images/9780321992789/samplepages/9780321992789.pdf
 
 -------
 
