@@ -38,24 +38,37 @@ by The Cherno
 
 -------
 
+## C++ programming questions
+https://www.youtube.com/playlist?list=PL43pGnjiVwgTnNmcPuhvSUcSgpNfR48ui
+
+Last updated on Jul 15, 2021
+
+CodeBeauty
+
 ## How to set up VS Code for C++ and make your First Program? + How I use AI to help me code faster
 https://www.youtube.com/watch?v=YgKnzIV4uME&t=301s
 
 
 CodeBeauty
+
 86.2K subscribers
 
-This video explains how to set up and use VS Code for C++ and how to make your first program. In the video I use AI to help me code faster and make fewer errors. The AI code completion tool that I use is called Tabnine, and you can get it for FREE here: http://bit.ly/TabnineFree
+This video explains how to set up and use VS Code for C++ and how to make your first program. 
+
+In the video I use AI to help me code faster and make fewer errors. 
+
+The AI code completion tool that I use is called Tabnine, and you can get it for FREE here: http://bit.ly/TabnineFree
 
 Contents:
-00:00 - Intro
-01:19 - VS Code vs Visual Studio
-01:45 - The AI code completion tool I use to code faster
-02:56 - How to setup VS Code for C++ programs
-07:39 - How to install the AI code completion tool
-08:48 - Make your first C++ program using VS Code
-11:37 - Compile and run your first C++ program using VS Code
-12:57 - How I use AI to help me code faster
+
+      00:00 - Intro
+      01:19 - VS Code vs Visual Studio
+      01:45 - The AI code completion tool I use to code faster
+      02:56 - How to setup VS Code for C++ programs
+      07:39 - How to install the AI code completion tool
+      08:48 - Make your first C++ program using VS Code
+      11:37 - Compile and run your first C++ program using VS Code
+      12:57 - How I use AI to help me code faster
 
 You can get the MinGW compiler for FREE here: http://bit.ly/CompilerFree
 
