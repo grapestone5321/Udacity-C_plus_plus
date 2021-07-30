@@ -39,7 +39,7 @@ by The Cherno
 -------
 
 ## How to set up VS Code for C++ and make your First Program? + How I use AI to help me code faster
-
+https://www.youtube.com/watch?v=YgKnzIV4uME&t=301s
 
 
 CodeBeauty
