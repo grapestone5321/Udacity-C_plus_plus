@@ -118,21 +118,17 @@ https://www.youtube.com/playlist?list=PL43pGnjiVwgQHLPnuH9ch-LhZdwckM8Tq
 
 
 ## 3. Data Structures
+https://www.youtube.com/playlist?list=PL43pGnjiVwgS5njI0HMGnqSH18tSSuLz_
 
 ### 3.1 DATA STRUCTURES Explained in 5 minutes! (for beginners) - Introduction to Data Structures
 
-
 ### 3.2 DATA STRUCTURES - How to work with arrays? (for beginners) - Arrays explained in 30 minutes!
-
 
 ### 3.3 Introduction to Linked Lists, Arrays vs Linked Lists, Advantages/Disadvantages - C++ Data Structures
 
-
 ### 3.4 How to insert a new node in a linked list in C++? (at the front, at the end, after a given node)
 
-
 ### 3.5 What is STACK data structure in C++? What is LIFO? STL Stack explained in 14 mins! DATA STRUCTURES
-
 
 ### 3.6 Queue and FIFO/FCFS explained in 10 minutes + a bonus task 📣📣 (Data Structures course)
 
