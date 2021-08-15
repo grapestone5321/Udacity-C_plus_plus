@@ -38,6 +38,202 @@ https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 Last updated on Jul 2, 2021
 
 
+### 1 Welcome to C++
+
+### 2 How to Setup C++ on Windows
+
+### 3 How to Setup C++ on Mac
+
+### 4 How to Setup C++ on Linux
+
+### 5 How C++ Works
+
+### 6 How the C++ Compiler Works
+
+### 7 How the C++ Linker Works
+
+### 8 Variables in C++
+
+### 9 Functions in C++
+
+### 10 C++ Header Files
+
+### 11 How to DEBUG C++ in VISUAL STUDIO
+
+### 12 CONDITIONS and BRANCHES in C++ (if statements)
+
+### 13 BEST Visual Studio Setup for C++ Projects!
+
+### 14 Loops in C++ (for loops, while loops)
+
+### 15 Control Flow in C++ (continue, break, return)
+
+### 16 POINTERS in C++
+
+### 17 REFERENCES in C++
+
+### 18 CLASSES in C++
+
+### 19 CLASSES vs STRUCTS in C++
+
+### 20 How to Write a C++ Class
+
+### 21 Static in C++
+
+### 22 Static for Classes and Structs in C++
+
+### 23 Local Static in C++
+
+### 24 ENUMS in C++
+
+### 25 Constructors in C++
+
+### 26 Destructors in C++
+
+### 27 Inheritance in C++
+
+### 28 Virtual Functions in C++
+
+### 29 Interfaces in C++ (Pure Virtual Functions)
+
+### 30 Visibility in C++
+
+### 31 Arrays in C++
+
+### 32 How Strings Work in C++ (and how to use them)
+
+### 33 String Literals in C++
+
+### 34 CONST in C++
+
+### 35 The Mutable Keyword in C++
+
+### 36 Member Initializer Lists in C++ (Constructor Initializer List)
+
+### 37 Ternary Operators in C++ (Conditional Assignment)
+
+### 38 How to CREATE/INSTANTIATE OBJECTS in C++
+
+### 39 The NEW Keyword in C++
+
+### 40 Implicit Conversion and the Explicit Keyword in C++
+
+### 41 OPERATORS and OPERATOR OVERLOADING in C++
+
+### 42 The "this" keyword in C++
+
+### 43 Object Lifetime in C++ (Stack/Scope Lifetimes)
+
+### 44 SMART POINTERS in C++ (std::unique_ptr, std::shared_ptr, std::weak_ptr)
+
+### 45 Copying and Copy Constructors in C++
+
+### 46 The Arrow Operator in C++
+
+### 47 Dynamic Arrays in C++ (std::vector)
+
+### 48 Optimizing the usage of std::vector in C++
+
+### 49 Using Libraries in C++ (Static Linking)
+
+### 50 Using Dynamic Libraries in C++
+
+### 51 Making and Working with Libraries in C++ (Multiple Projects in Visual Studio)
+
+### 52 How to Deal with Multiple Return Values in C++
+
+### 53 Templates in C++
+
+### 54 Stack vs Heap Memory in C++
+
+### 55 Macros in C++
+
+### 56 The "auto" keyword in C++
+
+### 57 Static Arrays in C++ (std::array)
+
+### 58 Function Pointers in C++
+
+### 59 Lambdas in C++
+
+### 60 Why I don't "using namespace std"
+
+### 61 Namespaces in C++
+
+### 62 Threads in C++
+
+### 63 Timing in C++
+
+### 64 Multidimensional Arrays in C++ (2D arrays)
+
+### 65 Sorting in C++
+
+### 66 Type Punning in C++
+
+### 67 Unions in C++
+
+### 68 Virtual Destructors in C++
+
+### 69 Casting in C++
+
+### 70 Conditional and Action Breakpoints in C++
+
+### 71 Safety in modern C++ and how to teach it
+
+### 72 Precompiled Headers in C++
+
+### 73 Dynamic Casting in C++
+
+### 74 BENCHMARKING in C++ (how to measure performance)
+
+### 75 STRUCTURED BINDINGS in C++
+
+### 76 How to Deal with OPTIONAL Data in C++
+
+### 77 Multiple TYPES of Data in a SINGLE VARIABLE in C++?
+
+### 78 How to store ANY data in C++
+
+### 79 How to make C++ run FASTER (with std::async)
+
+### 80 How to make your STRINGS FASTER in C++!
+
+### 81 VISUAL BENCHMARKING in C++ (how to measure performance visually)
+
+### 82 SINGLETONS in C++
+
+### 83 Small String Optimization in C++
+
+### 84 Track MEMORY ALLOCATIONS the Easy Way in C++
+
+### 85 lvalues and rvalues in C++
+
+### 86 Continuous Integration in C++
+
+### 87 Static Analysis in C++
+
+### 88 Argument Evaluation Order in C++
+
+### 89 Move Semantics in C++
+
+### 90 std::move and the Move Assignment Operator in C++
+
+### 91 ARRAY - Making DATA STRUCTURES in C++
+
+### 92 VECTOR/DYNAMIC ARRAY - Making DATA STRUCTURES in C++
+
+### 93 ITERATORS in C++
+
+### 94 Writing an ITERATOR in C++
+
+### 95 How to REALLY learn C++
+
+### 96 Intro to Binary and Bitwise Operators in C++
+
+### 97 Bitwise AND (&), OR (|), XOR (^) and NOT (~) in C++
+
+### 98 I did a C++ University Assignment
+
 
 -------
 
