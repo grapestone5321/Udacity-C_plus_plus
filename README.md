@@ -38,7 +38,7 @@ by The Cherno
 
 -------
 
-## CodeBeauty
+# CodeBeauty
 
 Hi everyone! My name is Saldina Nurak. 
 
