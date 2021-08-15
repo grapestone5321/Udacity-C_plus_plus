@@ -132,8 +132,24 @@ https://www.youtube.com/playlist?list=PL43pGnjiVwgS5njI0HMGnqSH18tSSuLz_
 
 ### 3.6 Queue and FIFO/FCFS explained in 10 minutes + a bonus task 📣📣 (Data Structures course)
 
+## 4. C++ Object-Oriented Programming
+https://www.youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN
 
+### 4.1 C++ OOP (2020) - Introduction to classes and objects for beginners
 
+### 4.2 C++ OOP (2020) - What are constructors and class methods? How to use them?
+
+### 4.3 C++ OOP (2020) - What is encapsulation in programming?
+
+### 4.4 C++ OOP (2020) - What is inheritance in programming?
+
+### 4.5 C++ OOP (2020) - What is polymorphisam in programming? (simple example)
+
+### 4.6 Relationship between Virtual Functions, Pure Virtual Functions and Abstract Classes in OOP explained
+
+### 4.7 Abstraction explained with real-life examples and code! - C++ OOP Course
+
+### 4.8 C++ Operator Overloading beginner to advanced (in-depth explanation)
 
 
 -------
