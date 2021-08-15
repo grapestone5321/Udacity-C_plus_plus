@@ -38,14 +38,16 @@ by The Cherno
 
 -------
 
-## C++ programming questions
+## CodeBeauty
+
+## 1. C++ programming questions
 https://www.youtube.com/playlist?list=PL43pGnjiVwgTnNmcPuhvSUcSgpNfR48ui
 
 Last updated on Jul 15, 2021
 
 CodeBeauty
 
-## How to set up VS Code for C++ and make your First Program? + How I use AI to help me code faster
+### 1.6 How to set up VS Code for C++ and make your First Program? + How I use AI to help me code faster
 https://www.youtube.com/watch?v=YgKnzIV4uME&t=301s
 
 
@@ -72,5 +74,45 @@ Contents:
 
 You can get the MinGW compiler for FREE here: http://bit.ly/CompilerFree
 
+## 2. C++ for beginners (2020)
+https://www.youtube.com/playlist?list=PL43pGnjiVwgQHLPnuH9ch-LhZdwckM8Tq
+
+### 2.1 First program “Hello World” using Visual Studio 2019 PROGRAMMING TUTORIAL
+
+### 2.2 Variables, Data Types, Overflow, Sizeof PROGRAMMING TUTORIAL
+
+### 2.3 ASCII Table, Program for ciphering text PROGRAMMING TUTORIAL
+
+### 2.4 If/else statement, check odd/even number, flowchart PROGRAMMING TUTORIAL
+
+### 2.5 Nested if/else, Determine the type of a triangle PROGRAMMING TUTORIAL
+
+### 2.6 Operators in C++ PROGRAMMING TUTORIAL
+
+### 2.7 How to make BMI Calculator application PROGRAMMING TUTORIAL
+
+### 2.8 Switch/case statement, Make Calculator application PROGRAMMING TUTORIAL
+
+### 2.9 Ternary (Conditional) operator, How to Guessing game PROGRAMMING TUTORIAL
+
+### 2.10 Switch/case statement, How to check days in a month PROGRAMMING TUTORIAL
+
+### 2.11 What is while loop, What is infinite loop PROGRAMMING TUTORIAL
+
+### 2.12 What is while loop, How to count digits of a number PROGRAMMING TUTORIAL
+
+### 2.13 What is while loop, How to reverse digits of a number PROGRAMMING TUTORIAL
+
+### 2.14 Do while loop, Difference between while and do while PROGRAMMING TUTORIAL
+
+### 2.15 For loop, How to calculate factorial of a number PROGRAMMING TUTORIAL
+
+### 2.16 How to nest loops, How to nest for and do-while loop PROGRAMMING TUTORIAL
+
+### 2.17 What is nested for loop, How to Multiplication table PROGRAMMING TUTORIAL
+
+### 2.18 How to draw rectangle shape in C++ PROGRAMMING TUTORIAL
+
+### 2.19 How to draw triangle and inverted/reversed triangle PROGRAMMING TUTORIAL
 
 -------
