@@ -162,18 +162,19 @@ https://www.youtube.com/playlist?list=PL43pGnjiVwgS5njI0HMGnqSH18tSSuLz_
 
 ### 3.6 Queue and FIFO/FCFS explained in 10 minutes + a bonus task 📣📣 (Data Structures course)
 
-## 4. C++ Object-Oriented Programming
+
+## 4. C++ Object-Oriented Programming (2020)
 https://www.youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN
 
-### 4.1 C++ OOP (2020) - Introduction to classes and objects for beginners
+### 4.1 Introduction to classes and objects for beginners
 
-### 4.2 C++ OOP (2020) - What are constructors and class methods? How to use them?
+### 4.2 What are constructors and class methods? How to use them?
 
-### 4.3 C++ OOP (2020) - What is encapsulation in programming?
+### 4.3 What is encapsulation in programming?
 
-### 4.4 C++ OOP (2020) - What is inheritance in programming?
+### 4.4 What is inheritance in programming?
 
-### 4.5 C++ OOP (2020) - What is polymorphisam in programming? (simple example)
+### 4.5 What is polymorphisam in programming? (simple example)
 
 ### 4.6 Relationship between Virtual Functions, Pure Virtual Functions and Abstract Classes in OOP explained
 
@@ -182,37 +183,37 @@ https://www.youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN
 ### 4.8 C++ Operator Overloading beginner to advanced (in-depth explanation)
 
 
-## 5. C++ functions
+## 5. C++ functions (2020)
 https://www.youtube.com/playlist?list=PL43pGnjiVwgRggnsJcz1cK0j7b2-kLML_
 
-### 5.1 C++ FUNCTIONS (2020) - What are functions? PROGRAMMING TUTORIAL
+### 5.1 What are functions? PROGRAMMING TUTORIAL
 
-### 5.2 C++ FUNCTIONS (2020) - What is function parameter/argument (multiple, default) PROGRAMMING TUTORIAL
+### 5.2 What is function parameter/argument (multiple, default) PROGRAMMING TUTORIAL
 
-### 5.3 C++ FUNCTIONS (2020) - Functions return statement, How to check prime number PROGRAMMING TUTORIAL
+### 5.3 Functions return statement, How to check prime number PROGRAMMING TUTORIAL
 
-### 5.4 C++ FUNCTIONS (2020) - What is function overloading? PROGRAMMING TUTORIAL
+### 5.4 What is function overloading? PROGRAMMING TUTORIAL
 
 ### 5.5 How to build an ATM application in C++? (For beginners) - PROGRAMMING TUTORIAL (2020)
 
-### 5.6 C++ FUNCTIONS (2020) - What is recursion? Learn recursive functions! PROGRAMMING TUTORIAL
+### 5.6 What is recursion? Learn recursive functions! PROGRAMMING TUTORIAL
 
-### 5.7 C++ FUNCTIONS (2020) - What are generic functions and templates? PROGRAMMING TUTORIAL
+### 5.7 What are generic functions and templates? PROGRAMMING TUTORIAL
 
 
-## 6. C++ pointers
+## 6. C++ pointers (2020)
 
-### 6.1 C++ POINTERS (2020) - Introduction to C++ pointers (for beginners) PROGRAMMING TUTORIAL
+### 6.1 Introduction to C++ pointers (for beginners) PROGRAMMING TUTORIAL
 
-### 6.2 C++ POINTERS (2020) - What is a void pointer? (for beginners) PROGRAMMING TUTORIAL
+### 6.2 What is a void pointer? (for beginners) PROGRAMMING TUTORIAL
 
-### 6.3 C++ POINTERS (2020) - How to use pointers and arrays (for beginners) PROGRAMMING TUTORIAL
+### 6.3 How to use pointers and arrays (for beginners) PROGRAMMING TUTORIAL
 
-### 6.4 C++ POINTERS (2020) - Return multiple values from a function using pointers? PROGRAMMING TUTORIAL
+### 6.4 Return multiple values from a function using pointers? PROGRAMMING TUTORIAL
 
-### 6.5 C++ POINTERS (2020) - How to create/change arrays at runtime? (Dynamic arrays) PROGRAMMING TUTORIAL
+### 6.5 How to create/change arrays at runtime? (Dynamic arrays) PROGRAMMING TUTORIAL
 
-### 6.6 C++ POINTERS (2020) - What is a dynamic two-dimensional array? (MULTIDIMENSIONAL dynamic arrays)
+### 6.6 What is a dynamic two-dimensional array? (MULTIDIMENSIONAL dynamic arrays)
 
 ### 6.7 SMART POINTERS in C++ (for beginners in 20 minutes)
 
