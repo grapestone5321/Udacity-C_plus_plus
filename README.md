@@ -151,5 +151,28 @@ https://www.youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN
 
 ### 4.8 C++ Operator Overloading beginner to advanced (in-depth explanation)
 
+## 5. C++ functions
+https://www.youtube.com/playlist?list=PL43pGnjiVwgRggnsJcz1cK0j7b2-kLML_
+
+### 5.1 C++ FUNCTIONS (2020) - What are functions? PROGRAMMING TUTORIAL
+
+
+### 5.2 C++ FUNCTIONS (2020) - What is function parameter/argument (multiple, default) PROGRAMMING TUTORIAL
+
+
+### 5.3 C++ FUNCTIONS (2020) - Functions return statement, How to check prime number PROGRAMMING TUTORIAL
+
+
+### 5.4 C++ FUNCTIONS (2020) - What is function overloading? PROGRAMMING TUTORIAL
+
+
+### 5.5 How to build an ATM application in C++? (For beginners) - PROGRAMMING TUTORIAL (2020)
+
+
+### 5.6 C++ FUNCTIONS (2020) - What is recursion? Learn recursive functions! PROGRAMMING TUTORIAL
+
+
+### 5.7 C++ FUNCTIONS (2020) - What are generic functions and templates? PROGRAMMING TUTORIAL
+
 
 -------
