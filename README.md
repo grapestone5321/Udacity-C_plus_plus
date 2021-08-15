@@ -43,17 +43,8 @@ by The Cherno
 ## 1. C++ programming questions
 https://www.youtube.com/playlist?list=PL43pGnjiVwgTnNmcPuhvSUcSgpNfR48ui
 
-Last updated on Jul 15, 2021
-
-CodeBeauty
-
 ### 1.6 How to set up VS Code for C++ and make your First Program? + How I use AI to help me code faster
 https://www.youtube.com/watch?v=YgKnzIV4uME&t=301s
-
-
-CodeBeauty
-
-86.2K subscribers
 
 This video explains how to set up and use VS Code for C++ and how to make your first program. 
 
@@ -73,6 +64,31 @@ Contents:
       12:57 - How I use AI to help me code faster
 
 You can get the MinGW compiler for FREE here: http://bit.ly/CompilerFree
+
+### 1.1 What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions
+
+### 1.2 C++ Structures for beginners (explained in 30 minutes) + Test your programming knowledge!
+
+### 1.3 C++ file handling for beginners! The easiest way to read/write into text files!
+
+### 1.4 What are header files in C++ ( PROGRAMMING TUTORIAL for beginners)
+
+### 1.5 Exception handling in C++ (How to handle errors in your program?)
+
+### 1.6 How to set up VS Code for C++ and make your First Program? + How I use AI to help me code faster
+
+### 1.7 What is system("pause") and why is it considered a BAD PRACTICE? C++ Programming Common Questions
+
+### 1.8 How to swap values of two variables with or without a third variable
+
+### 1.9 How to detect errors and bugs in code? Explaining Memory Leaks in C++
+
+### 1.10 Build C++ GUI apps FAST! Your first C++ GUI app!
+
+### 1.11 Static and Dynamic binding in C++ with examples (Early and Late binding)
+
+### 1.12 Your first C++ GUI Game (step by step) Build Game GUI apps in C++
+
 
 ## 2. C++ for beginners (2020)
 https://www.youtube.com/playlist?list=PL43pGnjiVwgQHLPnuH9ch-LhZdwckM8Tq
