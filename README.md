@@ -40,6 +40,18 @@ by The Cherno
 
 ## CodeBeauty
 
+Hi everyone! My name is Saldina Nurak. 
+
+I'm a 25-year-old software engineer and have been in the software industry since 2013. 
+
+I started this channel during the COVID-19 pandemic as a way of giving my contribution, sharing the knowledge, making programming tutorials, answering questions related to this industry, and making fun developer life videos.
+
+These videos are intended to help you to get a job, learn for your exams, learn to program for fun, and answer your questions about software engineering. 
+
+Write in the comments what kind of videos and tutorials would you like to see on my channel in the future, and give a thumbs up to the existing ones that you like.
+
+Enjoy!
+
 ## 1. C++ programming questions
 https://www.youtube.com/playlist?list=PL43pGnjiVwgTnNmcPuhvSUcSgpNfR48ui
 
