@@ -29,12 +29,14 @@ The course also includes comments and tips from Bjarne Stroustrup - the original
 
 -------
 
+# The Cherno
+
 ## C++
 https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 
 Last updated on Jul 2, 2021
 
-by The Cherno
+
 
 -------
 
