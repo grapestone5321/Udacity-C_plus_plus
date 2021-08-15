@@ -202,6 +202,7 @@ https://www.youtube.com/playlist?list=PL43pGnjiVwgRggnsJcz1cK0j7b2-kLML_
 
 
 ## 6. C++ pointers (2020)
+https://www.youtube.com/playlist?list=PL43pGnjiVwgSSRlwfahAuIqoJ8TfDIlHq
 
 ### 6.1 Introduction to C++ pointers (for beginners) PROGRAMMING TUTORIAL
 
