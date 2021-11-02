@@ -30,6 +30,55 @@ https://ptgmedia.pearsoncmg.com/images/9780321992789/samplepages/9780321992789.p
 
 -------
 
+## C++ Tutorial for Beginners - Full Course
+https://www.youtube.com/watch?v=vLnPwxZdW4Y&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m&index=2
+
+
+freeCodeCamp.org
+
+This course will give you a full introduction into all of the core concepts in C++. 
+
+### Contents 
+### Introduction
+- 01(0:00:00) Introduction
+- 02(0:01:38) Windows Installation
+- 03(0:04:54) Mac Installation
+- 04(0:08:44) Setup & Hello World
+- 05(0:12:29) Drawing a Shape
+### Variables
+- 01(0:19:55) Variables
+- 02(0:31:43) Data Types
+- 03(0:39:15) Working With Strings
+- 04(0:49:00) Working With Numbers
+- 05(0:59:41) Getting User Input
+- 06(1:05:32) Building a Calculator
+- 07(1:09:28) Building a Mad Libs
+- 08(1:13:45) Arrays
+### Functions
+- 01(1:20:03) Functions
+- 02(1:29:47) Return Statement
+- 03(1:35:22) If Statements
+- 04(1:47:15) If Statements (con't)
+- 05(1:55:58) Building a Better Calculator
+- 06(2:02:20) Switch Statements
+### Loops
+- 01(2:10:47) While Loops
+- 02(2:18:53) Building a Guessing Game
+- 03(2:29:18) For Loops
+- 04(2:38:32) Exponent Function
+- 05(2:45:21) 2d Arrays & Nested Loops
+- 06(2:54:55) Comments
+### Pointers
+- 01(2:59:11) Pointers
+- 02(3:13:26) Classes & Objects
+- 03(3:25:40) Constructor Functions
+- 04(3:34:41) Object Functions
+- 05(3:41:43) Getters & Setters
+- 06(3:54:04) Inheritance
+
+
+-------
+
 # The Cherno
 
 ## C++
