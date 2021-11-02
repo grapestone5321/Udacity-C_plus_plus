@@ -4,6 +4,7 @@
 
 
 # C++ For Programmers: Udacity-C++
+https://classroom.udacity.com/courses/ud210
 
 C++ for Programmers is designed for students who are familiar with a programming language and wish to learn C++.
 
@@ -12,6 +13,71 @@ This course focuses on 'how' as opposed to 'what'. For example, in the lesson on
 The lessons are taught by several different instructors who have used C++ in their professional careers, so students get to experience different perspectives.
 
 The course also includes comments and tips from Bjarne Stroustrup - the original designer of C++.
+
+
+
+
+
+### LESSON 1: Basics
+This lesson will cover C++ Basics: program structure, namespaces, user I/O, file I/O, and header files. It will also cover aspects of Udacity programming quizzes and user I/O.
+
+
+### LESSON 2: Compilation and Execution
+Compilation and Execution in a Linux/Unix environment is discussed in this lesson.
+
+
+### LESSON 3: Arithmetic Operations
+In this lesson, arithmetic operations (including prefix and postfix) are taught.
+
+
+### LESSON 4: Control Flow
+This lesson covers: relational operators, logic operators, if, if-else, switch, for, while, and do-while loops.
+
+
+### LESSON 5: Pointers
+This lesson is a quick overview of pointers in C++. The treatment is quick and superficial, with a more detailed treatment discussed in a later lesson.
+
+
+### LESSON 6: Arrays
+Single and multi-dimensional arrays are discussed.
+
+
+### LESSON 7: Functions
+Declaring and defining functions is the topic of this course. Passing by reference, including passing arrays to functions are also discussed.
+
+
+### LESSON 8: Classes
+The basics of classes: defining and using them are discussed in this lesson.
+
+
+### LESSON 9: Overloading
+Basic overloading of functions is discussed in this lesson.
+
+
+### LESSON 10: Templates
+Basic templates for both functions and classes are discussed in this lesson.
+
+
+### LESSON 11: Classes and Inheritance
+Inheritance, both singular and multiple are covered in this lesson.
+
+
+### LESSON 12: PolyMorphism
+Achieving Polymorphism by defining and implementing Virtual Functions is the purpose of this lesson.
+
+
+### LESSON 13: Vectors and Iterators
+Vectors are way better than arrays. Vectors and their iterators are covered in this lesson.
+
+
+### LESSON 14: Interview Questions
+Students will practice answering C++ interview questions. The questions begin at a basic level and increase in difficulty.
+
+
+### LESSON 15: C++ Checkpoint
+Are you ready to build Kalman Filters with C++? Take these quizzes to find out.
+
+
 
 
 -------
