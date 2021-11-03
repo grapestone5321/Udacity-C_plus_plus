@@ -21,31 +21,168 @@ The course also includes comments and tips from Bjarne Stroustrup - the original
 ### LESSON 1: Basics
 This lesson will cover C++ Basics: program structure, namespaces, user I/O, file I/O, and header files. It will also cover aspects of Udacity programming quizzes and user I/O.
 
+        1. Introduction to C++
+        2. Why learn C++
+        3. Where is C++ Used?
+        4. What makes C++ Different
+        5. Course Introduction
+        6. Textbook Recommendations
+        7. Program Structure
+        8. Prog. Quizzes Explained
+        9. Comments
+       10. Adding Comments
+       11. Style Guide
+       12. HelloWorld Programming Quiz
+       13. HelloWorld Answer
+       14. Prog. Quiz Checker
+       15. Compile and Link
+       16. Using Namespace
+       17. Namespace Programming Quiz
+       18. Namespace Answer
+       19. Write to the Console
+       20. Print Variables Programming Quiz
+       21. Print Variables Answer
+       22. Define Constants
+       23. Enumerated Constants
+       24. Format Output
+       25. Formatting Output Programming Quiz
+       26. Formatting Output Answer
+       27. File IO
+       28. File IO Programming Quiz
+       29. Header Files
+       30. Header Files Programming Quiz
+       31. Header Files Answer
+       32. User Input
+       33. User Input Programming Quiz
+       34. User IO Limitations Quiz
+       35. String Input
+       36. Cin and Strings Programming Quiz
+       37. Cin and Strings Answer
+       38. More on Strings
+       39. Stringstream Programming Quiz
+       40. Stringstream Answer
+       41. How to learn C++
+       42. C++ Guidelines
+       43. Debugging Practice
+       44. Debugging Answer
+       45. Student Playground
 
 ### LESSON 2: Compilation and Execution
 Compilation and Execution in a Linux/Unix environment is discussed in this lesson.
 
+        1. C++ Outside of Udacity
+        2. Compilation
+        3. Open a Terminal
+        4. Unix Commands
+        5. Compiling in the Terminal
+        6. Executing in the Terminal
+        7. Summation
 
 ### LESSON 3: Arithmetic Operations
 In this lesson, arithmetic operations (including prefix and postfix) are taught.
 
-
+        1. C++ Learning Strategy
+        2. Introduction
+        3. Arithmetic Operations
+        4. Arithmetic Operations Programming Quiz
+        5. Arithmetic Operations Answer
+        6. Variable Assignment
+        7. Correct Variable Types
+        8. Correct Variable Type 2 Quiz
+        9. Correct Variable Type Programming Quiz
+       10. Correct Variable Answer
+       11. PreFix and PostFix
+       12. PreFix and PostFix Program Example
+       13. Variable Assignment Operators
+       14. Debug Program
+       15. Debug Answer
+       16. Student Playground
+ 
 ### LESSON 4: Control Flow
 This lesson covers: relational operators, logic operators, if, if-else, switch, for, while, and do-while loops.
 
+        1. Intro to Control Flow
+        2. Relational Operators
+        3. Logic Operators
+        4. Truth Table Programming Quiz
+        5. Truth Table Answer
+        6. Truth Table Output Quiz
+        7. Truth Table Simplified
+        8. if statements
+        9. if-else Statements
+       10. if-else Programming Quiz
+       11. if-else Answer
+       12. switch Statements
+       13. switch Statement Program
+       14. switch Programming Quiz
+       15. switch Programming Answer
+       16. for Loops
+       17. for Loop Programming Quiz
+       18. for Loop Answer
+       19. while Loops
+       20. do while Loops
+       21. while Loops Programming Quiz
+       22. while Loops Answer
+       23. while Loops Random Ans
+       24. Infinite Loops
+       25. Exiting Loops
+       26. Student Playground
 
 ### LESSON 5: Pointers
 This lesson is a quick overview of pointers in C++. The treatment is quick and superficial, with a more detailed treatment discussed in a later lesson.
 
+        1. Why Learn Pointers
+        2. How are pointers used?
+        3. Pointers
+        4. Dereferencing Pointers
+        5. Pointers Programming Quiz
+        6. Pointers Programming Answer
+        7. More on Pointers Answer
+        8. Student Playground
 
 ### LESSON 6: Arrays
 Single and multi-dimensional arrays are discussed.
 
-
+        1. Find Min & Max
+        2. Find Min & Max Answer
+        3. Arrays
+        4. Array Practice
+        5. Array Practice Answer
+        6. Array Searches
+        7. Array Searches Answer
+        8. MultiDimensional Arrays
+        9. Multidimensional Arrays Programming Quiz
+       10. Multidimensional Arrays Answer
+       11. Student Playground
+ 
 ### LESSON 7: Functions
 Declaring and defining functions is the topic of this course. Passing by reference, including passing arrays to functions are also discussed.
 
-
+        1. Functions
+        2. Func: No Ret, No Parameters
+        3. Func. Prog.Quiz 1
+        4. Func Prog Quiz 1 Answer
+        5. Functions w Parameters
+        6. Func w Param. Answer 1
+        7. Func. in Header Files
+        8. Func in Header Files Ans.
+        9. Func. w Return Values
+       10. Func. w Ret. Values Prog. Quiz
+       11. Func. w Return Values Ans
+       12. Functions that Alter Parameters
+       13. Functions Altering Parameters
+       14. Func. Altering Param. Prog. Quiz
+       15. Pass Variable by Reference
+       16. Func. Pass by Reference
+       17. Pass by Reference Ans
+       18. Arrays as Parameters
+       19. Arrays as Param. Prog. Quiz
+       20. Arrays as Param. Answer
+       21. Function Best Practices
+       22. Debug Program
+       23. Debug Answer
+       24. Student Playground
+       
 ### LESSON 8: Classes
 The basics of classes: defining and using them are discussed in this lesson.
 
