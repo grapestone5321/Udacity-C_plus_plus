@@ -187,6 +187,37 @@ Declaring and defining functions is the topic of this course. Passing by referen
 The basics of classes: defining and using them are discussed in this lesson.
 
 
+        1. Is C++ an OOP Language?
+        2. Classes Introduction
+        3. Why Classes Prog. Quiz
+        4. Why Classes Prog. Answer
+        5. Classes
+        6. Class Members
+        7. Defining Class Functions
+        8. A Class Defined
+        9. Syntax
+       10. Using a Class
+       11. Classes Programming Quiz
+       12. Class Program Answer
+       13. Classes Prog. 2 Quiz
+       14. Classes Prog. 2 Answer
+       15. Memory Management
+       16. Constructors
+       17. Destructors
+       18. Helper Functions in Classes
+       19. Helper Functions Program
+       20. Helper Functions Prog. Answer
+       21. Classes and Arrays
+       22. Classes and Arrays Program
+       23. Classes and Arrays Answer
+       24. TicTacToe Prog, Quiz
+       25. Tic Tac Toe Answer
+       26. this Pointer
+       27. Functions and Classes Prog
+       28. Functions and Classes Answer
+       29. Constructors w Parameters
+       30. Student Playground
+
 ### LESSON 9: Overloading
 Basic overloading of functions is discussed in this lesson.
 
